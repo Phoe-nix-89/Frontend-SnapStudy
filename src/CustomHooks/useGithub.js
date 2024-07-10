@@ -9,6 +9,8 @@ const useGithub = (userId) => {
             const data=await fetch(url+userId);
             const jsonData=await data.json();
             setGithubProfile(jsonData);
+
+            //console.log(jsonData);
         }catch(error){
             console.log("Error occured in fetching the user's details");
             console.log(error);
