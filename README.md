@@ -35,6 +35,14 @@ Stay tuned for updates!
 
 We value your feedback! If you have suggestions, encounter issues, or want to contribute, please [create an issue](https://github.com/PankajKumar1947/snap-study/issues).
 
+# Tech-stack used
+
+1. HTML
+2. CSS
+3. TailwindCSS
+4. ReactJS
+5. Redux
+
 ## License
 
 SnapStudy is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
