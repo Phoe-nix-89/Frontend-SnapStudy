@@ -15,6 +15,10 @@ const Navbar = () => {
       route:"choice/news"
     },
     {
+      name : "Syllabus",
+      route : "choice/syllabus"
+    },
+    {
       name:"Organiser",
       route:"choice/organiser"
     },
